@@ -29,3 +29,10 @@ You can omit the -s flag to write the default json sample schema.
 |-f| JSON file to load the example schema|
 |-s| JSON sample provided as a string |
 
+## Using Docker
+
+To build the image:
+`docker build -t doc-gen .`
+
+To run the 
+`docker run doc-gen python doc-gen.py -t 200`
