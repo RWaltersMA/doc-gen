@@ -36,3 +36,8 @@ To build the image:
 
 To run the 
 `docker run doc-gen python doc-gen.py -t 200`
+
+## Using Docker Hub
+
+This project is also available in Docker Hub
+https://hub.docker.com/repository/docker/robwma/doc-gen/general
